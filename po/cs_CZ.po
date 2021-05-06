@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-dsm-ui 20091019161421\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2009.10.19 16:14+0300\n"
+"Last-Translator:\n"
+"Language-Team: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "incf_ib_battery_charging"
+msgstr "Nabíjení"
+
+msgid "incf_ib_battery_full"
+msgstr "Baterie nabitá"
+
+msgid "incf_ib_battery_low"
+msgstr "Baterie vybitá"
+
+msgid "incf_ib_battery_not_charging"
+msgstr "Nabíjení neprobíhá"
+
+msgid "incf_ib_battery_not_power"
+msgstr "Nabíjení neprobíhá. Nedostatek energie."
+
+msgid "incf_ib_battery_recharge"
+msgstr "Dobijte baterii"
+
+msgid "incf_ib_disconnect_charger"
+msgstr "Šetřete energii. Odpojte nabíječku ze sítě."
+
+msgid "incf_me_battery_charged"
+msgstr "Zcela nabitá"
+
+msgid "incf_me_battery_charging"
+msgstr "Nabíjení"
+
+msgid "incf_ni_consumes_more_than_receives"
+msgstr ""
+"Přístroj využívá více energie, než získává z počítače. Doporučuje se "
+"nabíjení pomocí kompatibilní nabíječky."
+
+msgid "tncpa_li_plugin_sb_battery"
+msgstr "Baterie"

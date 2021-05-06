@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-dsm-ui 20091019161421\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2009.10.19 16:14+0300\n"
+"Last-Translator:\n"
+"Language-Team: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "incf_ib_battery_charging"
+msgstr "Charging"
+
+msgid "incf_ib_battery_full"
+msgstr "Battery full"
+
+msgid "incf_ib_battery_low"
+msgstr "Battery low"
+
+msgid "incf_ib_battery_not_charging"
+msgstr "Not charging"
+
+msgid "incf_ib_battery_not_power"
+msgstr "Not charging. Insufficient power."
+
+msgid "incf_ib_battery_recharge"
+msgstr "Recharge battery"
+
+msgid "incf_ib_disconnect_charger"
+msgstr "Disconnect charger from power supply to save energy"
+
+msgid "incf_me_battery_charged"
+msgstr "Fully charged"
+
+msgid "incf_me_battery_charging"
+msgstr "Charging"
+
+msgid "incf_ni_consumes_more_than_receives"
+msgstr ""
+"Device using more power than it is receiving from the PC. Charging with a "
+"compatible charger is recommended."
+
+msgid "tncpa_li_plugin_sb_battery"
+msgstr "Battery"

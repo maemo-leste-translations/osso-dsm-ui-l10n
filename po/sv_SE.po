@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-dsm-ui 20091019161421\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2009.10.19 16:14+0300\n"
+"Last-Translator:\n"
+"Language-Team: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "incf_ib_battery_charging"
+msgstr "Laddar"
+
+msgid "incf_ib_battery_full"
+msgstr "Batteriet fullt"
+
+msgid "incf_ib_battery_low"
+msgstr "Batteriet svagt"
+
+msgid "incf_ib_battery_not_charging"
+msgstr "Laddar inte"
+
+msgid "incf_ib_battery_not_power"
+msgstr "Laddar inte. Ej tillräckligt med ström."
+
+msgid "incf_ib_battery_recharge"
+msgstr "Ladda batteriet"
+
+msgid "incf_ib_disconnect_charger"
+msgstr "Ta bort laddaren från vägguttaget för att spara energi"
+
+msgid "incf_me_battery_charged"
+msgstr "Fulladdat"
+
+msgid "incf_me_battery_charging"
+msgstr "Laddar"
+
+msgid "incf_ni_consumes_more_than_receives"
+msgstr ""
+"Enheten drar mer ström än den får från datorn. En kompatibel laddare "
+"rekommenderas för laddning."
+
+msgid "tncpa_li_plugin_sb_battery"
+msgstr "Batteri"

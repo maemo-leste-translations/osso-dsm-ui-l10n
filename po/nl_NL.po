@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-dsm-ui 20091019161421\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2009.10.19 16:14+0300\n"
+"Last-Translator:\n"
+"Language-Team: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "incf_ib_battery_charging"
+msgstr "Bezig met opladen"
+
+msgid "incf_ib_battery_full"
+msgstr "Batterij vol"
+
+msgid "incf_ib_battery_low"
+msgstr "Batterij bijna leeg"
+
+msgid "incf_ib_battery_not_charging"
+msgstr "Niet aan het opladen"
+
+msgid "incf_ib_battery_not_power"
+msgstr "Niet aan het opladen. Onvoldoende stroomtoevoer."
+
+msgid "incf_ib_battery_recharge"
+msgstr "Batterij opladen"
+
+msgid "incf_ib_disconnect_charger"
+msgstr "Koppel de lader los uit de stroomvoorziening om energie te besparen"
+
+msgid "incf_me_battery_charged"
+msgstr "Volledig opgeladen"
+
+msgid "incf_me_battery_charging"
+msgstr "Bezig met opladen"
+
+msgid "incf_ni_consumes_more_than_receives"
+msgstr ""
+"Apparaat verbruikt meer energie dan door pc wordt geleverd. Het wordt "
+"aangeraden op te laden met een compatibele oplader."
+
+msgid "tncpa_li_plugin_sb_battery"
+msgstr "Batterij"

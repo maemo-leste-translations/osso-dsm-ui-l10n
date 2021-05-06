@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-dsm-ui 20091019161421\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2009.10.19 16:14+0300\n"
+"Last-Translator:\n"
+"Language-Team: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "incf_ib_battery_charging"
+msgstr "A carregar"
+
+msgid "incf_ib_battery_full"
+msgstr "Bateria cheia"
+
+msgid "incf_ib_battery_low"
+msgstr "Bateria fraca"
+
+msgid "incf_ib_battery_not_charging"
+msgstr "Não está a carregar"
+
+msgid "incf_ib_battery_not_power"
+msgstr "Não está a carregar. Energia insuficiente."
+
+msgid "incf_ib_battery_recharge"
+msgstr "Recarregar a bateria"
+
+msgid "incf_ib_disconnect_charger"
+msgstr "Desligue o carregador da fonte de alimentação para poupar energia"
+
+msgid "incf_me_battery_charged"
+msgstr "Carga completa"
+
+msgid "incf_me_battery_charging"
+msgstr "A carregar"
+
+msgid "incf_ni_consumes_more_than_receives"
+msgstr ""
+"O dispositivo está a utilizar mais energia do que a que recebe do PC. "
+"Recomenda-se que utilize um carregador compatível para carregar."
+
+msgid "tncpa_li_plugin_sb_battery"
+msgstr "Bateria"

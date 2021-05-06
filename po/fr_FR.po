@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-dsm-ui 20091019161421\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2009.10.19 16:14+0300\n"
+"Last-Translator:\n"
+"Language-Team: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+
+msgid "incf_ib_battery_charging"
+msgstr "Batterie en charge"
+
+msgid "incf_ib_battery_full"
+msgstr "Batterie chargée"
+
+msgid "incf_ib_battery_low"
+msgstr "Batterie faible"
+
+msgid "incf_ib_battery_not_charging"
+msgstr "Défaut de charge"
+
+msgid "incf_ib_battery_not_power"
+msgstr "Défaut de charge. Puissance insuffisante."
+
+msgid "incf_ib_battery_recharge"
+msgstr "Recharger la batterie"
+
+msgid "incf_ib_disconnect_charger"
+msgstr "Débranchez le chargeur de la prise pour économiser de l'énergie"
+
+msgid "incf_me_battery_charged"
+msgstr "Complètement chargée"
+
+msgid "incf_me_battery_charging"
+msgstr "Batterie en charge"
+
+msgid "incf_ni_consumes_more_than_receives"
+msgstr ""
+"Le terminal utilise plus de puissance qu'il n'en reçoit du PC. La charge à "
+"l'aide d'un chargeur compatible est recommandée."
+
+msgid "tncpa_li_plugin_sb_battery"
+msgstr "Batterie"

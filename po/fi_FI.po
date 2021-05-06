@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-dsm-ui 20091019161421\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2009.10.19 16:14+0300\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "incf_ib_battery_charging"
+msgstr "Akku latautuu"
+
+msgid "incf_ib_battery_full"
+msgstr "Akku täynnä"
+
+msgid "incf_ib_battery_low"
+msgstr "Akku lähes tyhjä"
+
+msgid "incf_ib_battery_not_charging"
+msgstr "Akku ei lataudu"
+
+msgid "incf_ib_battery_not_power"
+msgstr "Akku ei lataudu. Virta ei riitä."
+
+msgid "incf_ib_battery_recharge"
+msgstr "Lataa akku"
+
+msgid "incf_ib_disconnect_charger"
+msgstr "Säästä energiaa irrottamalla laturi virtalähteestä"
+
+msgid "incf_me_battery_charged"
+msgstr "Akku ladattu täyteen"
+
+msgid "incf_me_battery_charging"
+msgstr "Akku latautuu"
+
+msgid "incf_ni_consumes_more_than_receives"
+msgstr ""
+"Laite käyttää enemmän virtaa kuin se saa tietokoneesta. On suositeltavaa "
+"käyttää yhteensopivaa laturia."
+
+msgid "tncpa_li_plugin_sb_battery"
+msgstr "Akku"
