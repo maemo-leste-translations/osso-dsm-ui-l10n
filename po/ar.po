@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-dsm-ui 20091019161421\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2010-04-27 19:33+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: Adib Al Abaji <shami585@yahoo.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Poedit-Language: Arabic\n"
+"X-Poedit-Country: SYRIAN ARAB REPUBLIC\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "incf_ib_battery_charging"
+msgstr "شحن"
+
+msgid "incf_ib_battery_full"
+msgstr "البطارية ممتلئة"
+
+msgid "incf_ib_battery_low"
+msgstr "البطارية منخفضة"
+
+msgid "incf_ib_battery_not_charging"
+msgstr "لا يتم الشحن"
+
+msgid "incf_ib_battery_not_power"
+msgstr "لا يتم الشحن. الطاقة غير كافية"
+
+msgid "incf_ib_battery_recharge"
+msgstr "إعادة شحن البطارية"
+
+msgid "incf_ib_disconnect_charger"
+msgstr "قم بفصل الشاحن عن مصدر الطاقة للحفاظ عليها"
+
+msgid "incf_me_battery_charged"
+msgstr "تم الشحن بالكامل"
+
+msgid "incf_me_battery_charging"
+msgstr "جارى الشحن"
+
+msgid "incf_ni_consumes_more_than_receives"
+msgstr "الجهاز يستهلك طاقة أكثر من المستقبلة من الكمبيوتر. الشحن عن طريق جهاز متوافق مستحسن"
+
+msgid "tncpa_li_plugin_sb_battery"
+msgstr "البطارية"
+
