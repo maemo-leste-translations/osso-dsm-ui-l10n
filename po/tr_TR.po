@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-dsm-ui 20091019161421\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.08.24 13:58+0300\n"
+"PO-Revision-Date: 2010-05-29 21:24+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "incf_ib_battery_charging"
+msgstr "Şarj oluyor"
+
+msgid "incf_ib_battery_full"
+msgstr "Batarya dolu"
+
+msgid "incf_ib_battery_low"
+msgstr "Batarya düşük"
+
+msgid "incf_ib_battery_not_charging"
+msgstr "Şarj olmuyor"
+
+msgid "incf_ib_battery_not_power"
+msgstr "Şarj olmuyor. Yetersiz güç."
+
+msgid "incf_ib_battery_recharge"
+msgstr "Bataryayı yeniden şarj edin"
+
+msgid "incf_ib_disconnect_charger"
+msgstr "Şarj cihazını güç kaynağından ayırarak enerji tasarrufu edin"
+
+msgid "incf_me_battery_charged"
+msgstr "Tamamen dolu"
+
+msgid "incf_me_battery_charging"
+msgstr "Şarj oluyor"
+
+msgid "incf_ni_consumes_more_than_receives"
+msgstr ""
+"Cihaz PCden aldığı güçten daha fazlasını kullanıyor. Uyumlu şarj cihazıyla "
+"şarj edilmesi önerilir."
+
+msgid "tncpa_li_plugin_sb_battery"
+msgstr "Batarya"
