@@ -9,18 +9,87 @@ Package: osso-dsm-ui-l10n-mr0
 Section: misc
 Architecture: all
 Provides: osso-dsm-ui-l10n-mr
-Depends: osso-dsm-ui-l10n-ruru, osso-dsm-ui-l10n-frfr, osso-dsm-ui-l10n-frca, osso-dsm-ui-l10n-dadk, osso-dsm-ui-l10n-itit, osso-dsm-ui-l10n-svse, osso-dsm-ui-l10n-nono, osso-dsm-ui-l10n-fifi, osso-dsm-ui-l10n-nlnl, osso-dsm-ui-l10n-enus, osso-dsm-ui-l10n-dede, osso-dsm-ui-l10n-esmx, osso-dsm-ui-l10n-eses, osso-dsm-ui-l10n-cscz, osso-dsm-ui-l10n-ptpt, osso-dsm-ui-l10n-engb, osso-dsm-ui-l10n-plpl
-Description: osso-dsm-ui marketing release package
- This is a metapackage for osso-dsm-ui to pull all the l10n packages.
- Application developers of osso-dsm-ui should depend on
+Depends:
+ osso-dsm-ui-l10n-zhtw,
+ osso-dsm-ui-l10n-zhhk,
+ osso-dsm-ui-l10n-zhcn,
+ osso-dsm-ui-l10n-ukua,
+ osso-dsm-ui-l10n-trtr,
+ osso-dsm-ui-l10n-svse,
+ osso-dsm-ui-l10n-sksk,
+ osso-dsm-ui-l10n-ruru,
+ osso-dsm-ui-l10n-roro,
+ osso-dsm-ui-l10n-ptpt,
+ osso-dsm-ui-l10n-plpl,
+ osso-dsm-ui-l10n-pa,
+ osso-dsm-ui-l10n-nono,
+ osso-dsm-ui-l10n-nlnl,
+ osso-dsm-ui-l10n-mymm,
+ osso-dsm-ui-l10n-lvlv,
+ osso-dsm-ui-l10n-ko,
+ osso-dsm-ui-l10n-km,
+ osso-dsm-ui-l10n-itit,
+ osso-dsm-ui-l10n-huhu,
+ osso-dsm-ui-l10n-heil,
+ osso-dsm-ui-l10n-frfr,
+ osso-dsm-ui-l10n-frca,
+ osso-dsm-ui-l10n-fifi,
+ osso-dsm-ui-l10n-fa,
+ osso-dsm-ui-l10n-etee,
+ osso-dsm-ui-l10n-esmx,
+ osso-dsm-ui-l10n-eses,
+ osso-dsm-ui-l10n-enus,
+ osso-dsm-ui-l10n-engb,
+ osso-dsm-ui-l10n-elgr,
+ osso-dsm-ui-l10n-dede,
+ osso-dsm-ui-l10n-dadk,
+ osso-dsm-ui-l10n-cy,
+ osso-dsm-ui-l10n-cscz,
+ osso-dsm-ui-l10n-caes,
+ osso-dsm-ui-l10n-bgbg,
+ osso-dsm-ui-l10n-beby,
+ osso-dsm-ui-l10n-ar,
+Description: osso-dsm-ui-l10n marketing release package
+ This is a metapackage for osso-dsm-ui-l10n to pull all the l10n packages.
+ Application developers of osso-dsm-ui-l10n should depend on
  "osso-dsm-ui-l10n-mr0 | osso-dsm-ui-l10n-mr"
  to ensure correct locales are getting installed.
+
+Package: osso-dsm-ui-l10n-ar
+Section: misc
+Architecture: all
+Description: language files for osso-dsm-ui (ar)
+ Language files for ar osso-dsm-ui.
+
+Package: osso-dsm-ui-l10n-beby
+Section: misc
+Architecture: all
+Description: language files for osso-dsm-ui (be_BY)
+ Language files for be_BY osso-dsm-ui.
+
+Package: osso-dsm-ui-l10n-bgbg
+Section: misc
+Architecture: all
+Description: language files for osso-dsm-ui (bg_BG)
+ Language files for bg_BG osso-dsm-ui.
+
+Package: osso-dsm-ui-l10n-caes
+Section: misc
+Architecture: all
+Description: language files for osso-dsm-ui (ca_ES)
+ Language files for ca_ES osso-dsm-ui.
 
 Package: osso-dsm-ui-l10n-cscz
 Section: misc
 Architecture: all
 Description: language files for osso-dsm-ui (cs_CZ)
  Language files for cs_CZ osso-dsm-ui.
+
+Package: osso-dsm-ui-l10n-cy
+Section: misc
+Architecture: all
+Description: language files for osso-dsm-ui (cy)
+ Language files for cy osso-dsm-ui.
 
 Package: osso-dsm-ui-l10n-dadk
 Section: misc
@@ -33,6 +102,12 @@ Section: misc
 Architecture: all
 Description: language files for osso-dsm-ui (de_DE)
  Language files for de_DE osso-dsm-ui.
+
+Package: osso-dsm-ui-l10n-elgr
+Section: misc
+Architecture: all
+Description: language files for osso-dsm-ui (el_GR)
+ Language files for el_GR osso-dsm-ui.
 
 Package: osso-dsm-ui-l10n-engb
 Section: misc
@@ -58,6 +133,18 @@ Architecture: all
 Description: language files for osso-dsm-ui (es_MX)
  Language files for es_MX osso-dsm-ui.
 
+Package: osso-dsm-ui-l10n-etee
+Section: misc
+Architecture: all
+Description: language files for osso-dsm-ui (et_EE)
+ Language files for et_EE osso-dsm-ui.
+
+Package: osso-dsm-ui-l10n-fa
+Section: misc
+Architecture: all
+Description: language files for osso-dsm-ui (fa)
+ Language files for fa osso-dsm-ui.
+
 Package: osso-dsm-ui-l10n-fifi
 Section: misc
 Architecture: all
@@ -76,11 +163,47 @@ Architecture: all
 Description: language files for osso-dsm-ui (fr_FR)
  Language files for fr_FR osso-dsm-ui.
 
+Package: osso-dsm-ui-l10n-heil
+Section: misc
+Architecture: all
+Description: language files for osso-dsm-ui (he_IL)
+ Language files for he_IL osso-dsm-ui.
+
+Package: osso-dsm-ui-l10n-huhu
+Section: misc
+Architecture: all
+Description: language files for osso-dsm-ui (hu_HU)
+ Language files for hu_HU osso-dsm-ui.
+
 Package: osso-dsm-ui-l10n-itit
 Section: misc
 Architecture: all
 Description: language files for osso-dsm-ui (it_IT)
  Language files for it_IT osso-dsm-ui.
+
+Package: osso-dsm-ui-l10n-km
+Section: misc
+Architecture: all
+Description: language files for osso-dsm-ui (km)
+ Language files for km osso-dsm-ui.
+
+Package: osso-dsm-ui-l10n-ko
+Section: misc
+Architecture: all
+Description: language files for osso-dsm-ui (ko)
+ Language files for ko osso-dsm-ui.
+
+Package: osso-dsm-ui-l10n-lvlv
+Section: misc
+Architecture: all
+Description: language files for osso-dsm-ui (lv_LV)
+ Language files for lv_LV osso-dsm-ui.
+
+Package: osso-dsm-ui-l10n-mymm
+Section: misc
+Architecture: all
+Description: language files for osso-dsm-ui (my_MM)
+ Language files for my_MM osso-dsm-ui.
 
 Package: osso-dsm-ui-l10n-nlnl
 Section: misc
@@ -94,6 +217,12 @@ Architecture: all
 Description: language files for osso-dsm-ui (no_NO)
  Language files for no_NO osso-dsm-ui.
 
+Package: osso-dsm-ui-l10n-pa
+Section: misc
+Architecture: all
+Description: language files for osso-dsm-ui (pa)
+ Language files for pa osso-dsm-ui.
+
 Package: osso-dsm-ui-l10n-plpl
 Section: misc
 Architecture: all
@@ -106,14 +235,56 @@ Architecture: all
 Description: language files for osso-dsm-ui (pt_PT)
  Language files for pt_PT osso-dsm-ui.
 
+Package: osso-dsm-ui-l10n-roro
+Section: misc
+Architecture: all
+Description: language files for osso-dsm-ui (ro_RO)
+ Language files for ro_RO osso-dsm-ui.
+
 Package: osso-dsm-ui-l10n-ruru
 Section: misc
 Architecture: all
 Description: language files for osso-dsm-ui (ru_RU)
  Language files for ru_RU osso-dsm-ui.
 
+Package: osso-dsm-ui-l10n-sksk
+Section: misc
+Architecture: all
+Description: language files for osso-dsm-ui (sk_SK)
+ Language files for sk_SK osso-dsm-ui.
+
 Package: osso-dsm-ui-l10n-svse
 Section: misc
 Architecture: all
 Description: language files for osso-dsm-ui (sv_SE)
  Language files for sv_SE osso-dsm-ui.
+
+Package: osso-dsm-ui-l10n-trtr
+Section: misc
+Architecture: all
+Description: language files for osso-dsm-ui (tr_TR)
+ Language files for tr_TR osso-dsm-ui.
+
+Package: osso-dsm-ui-l10n-ukua
+Section: misc
+Architecture: all
+Description: language files for osso-dsm-ui (uk_UA)
+ Language files for uk_UA osso-dsm-ui.
+
+Package: osso-dsm-ui-l10n-zhcn
+Section: misc
+Architecture: all
+Description: language files for osso-dsm-ui (zh_CN)
+ Language files for zh_CN osso-dsm-ui.
+
+Package: osso-dsm-ui-l10n-zhhk
+Section: misc
+Architecture: all
+Description: language files for osso-dsm-ui (zh_HK)
+ Language files for zh_HK osso-dsm-ui.
+
+Package: osso-dsm-ui-l10n-zhtw
+Section: misc
+Architecture: all
+Description: language files for osso-dsm-ui (zh_TW)
+ Language files for zh_TW osso-dsm-ui.
