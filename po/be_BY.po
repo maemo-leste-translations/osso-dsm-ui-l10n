@@ -1,0 +1,48 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2012-05-26 07:07+0000\n"
+"Last-Translator: Stanislau <kasrkin@mail.by>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be_BY\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "incf_ib_battery_charging"
+msgstr "Зарадка"
+
+msgid "incf_ib_battery_full"
+msgstr "Акумулятар зараджаны"
+
+msgid "incf_ib_battery_low"
+msgstr "Акумулятар разраджаны"
+
+msgid "incf_ib_battery_not_charging"
+msgstr "Не зараджаецца"
+
+msgid "incf_ib_battery_not_power"
+msgstr "Не зараджаецца. Не хапае магутнасці."
+
+msgid "incf_ib_battery_recharge"
+msgstr "Зарадзіце акумулятар"
+
+msgid "incf_ib_disconnect_charger"
+msgstr "Адключыце ЗП ад крыніцы сілкавання для эканоміі энергіі"
+
+msgid "incf_me_battery_charged"
+msgstr "Поўнасцю зараджаны"
+
+msgid "incf_me_battery_charging"
+msgstr "Зарадка"
+
+msgid "incf_ni_consumes_more_than_receives"
+msgstr "Дэвайс выкарыстоўвае больш энергіі, чым атрымлівае ад камп'ютара. Рэкамендуецца зарадка з сумяшчальнай ЗП."
+
+msgid "tncpa_li_plugin_sb_battery"
+msgstr "Акумулятар"
